@@ -6,3 +6,4 @@ https://github.com/cegepmatane/projet-editeur-SuperPitpit/tree/Pattern-Command-P
 # Monteur 
 https://github.com/cegepmatane/projet-editeur-SuperPitpit/tree/Pattern-Builder-Peter
 # Décorateur
+https://github.com/SuperPitpit/Pattern-Decorateur
